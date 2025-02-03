@@ -10,4 +10,6 @@ Specification 1
 
 * User should have permission set to give the access level for query data.
 
+Requirement 2
+* Multiple groups should be created.
 
